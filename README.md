@@ -1,1 +1,2 @@
-MY first commit
+MY readme file
+updated 
